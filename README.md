@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sibra
+👋 Hi, I’m Sibra! 
 
 <!---
 sibranid/sibranid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
